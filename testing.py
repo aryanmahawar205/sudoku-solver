@@ -1,3 +1,9 @@
+'''
+This code is just a copy from the website - https://www.askpython.com/python/examples/sudoku-solver-in-python
+All credits reserved to Siddhi Sawant. This code is directly copy pasted for educational purposes, in order to study the concept
+and probably improvise and advance on the code further, with an advanced GUI too!
+'''
+
 M = 9
 def puzzle(a):
     for i in range(M):
